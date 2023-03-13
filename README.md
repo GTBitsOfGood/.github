@@ -1,4 +1,4 @@
-<h1> Glad to see you here! </h1>
+<h1> Glad to see you here!🤙</h1>
 <picture>
   <img src="https://bitsofgood.org/logo-social.png">
 </picture>
@@ -11,4 +11,10 @@ By building relationships with local nonprofits, we are redefining social good f
 
 <h3>Building Powerful Web Apps 🧑‍💻</h3>
 Our organization develops real-world applications and promotes learning and mentorship at all levels, both from team members of diverse skill sets and from the close-knit, passionate club community.
+
+<h3>Reach out to us!👋</h3>
+<ul>
+  <li>🦾Take a look at some of our <a href="https://bitsofgood.org/projects">Projects</a>, where we have partnered with nonprofits both in and outside of campus to create an impact!</li>
+  <li>🗞️You can also check out our <a href="https://medium.com/bits-of-good">Blog</a>, where our wonderful officers have multiple foods for thought of any interest relating to tech.</li>
+  <li>🫱🏻‍🫲🏾If you have any questions, reach us on our website! https://bitsofgood.org/contact or https://bitsofgood.org/.
 <ul>
