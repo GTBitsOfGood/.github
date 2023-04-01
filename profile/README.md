@@ -1,6 +1,6 @@
 <h1>Welcome to Bits of Good!</h1>
 <picture>
-  <img src="https://i.imgur.com/YtcRvf4.png">
+  <img src="https://i.imgur.com/YtcRvf4.png" height="100">
 </picture>
 Hey! We are Bits of Good, a nonprofit focused on <strong>Changing lives <em>one bit at a time.</em></strong> Based in Georgia Tech, the GT Bits of Good team connects our students with local nonprofits by building powerful web apps.
 As the Hack4Impact chapter in Georgia Tech, we are a 501(c)(3) nonprofit that drives social impact by developing custom, pro bono software for local nonprofits. While we empower our nonprofit partners to work more efficiently and scale their impact, we also create opportunities for Georgia Tech students, both undergraduate and graduate, to spur meaningful change in the community around them.
