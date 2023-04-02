@@ -1,6 +1,6 @@
 <h1>Welcome to Bits of Good!</h1>
 <p align="center">
-  <img src="https://i.imgur.com/YtcRvf4.png" height="400">
+  <img src="https://bitsofgood.org/logo-social.png" height="400">
 </p>
 <br/>
 Hey! We are Bits of Good, a nonprofit focused on <strong>Changing lives <em>one bit at a time.</em></strong> Based in Georgia Tech, the GT Bits of Good team connects our students with local nonprofits by building powerful web apps.
